@@ -1,0 +1,25 @@
+{
+  "name": "cicd-github-actions-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "test": "echo \"No tests implemented yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParikshitMann/cicd-github-actions-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ParikshitMann/cicd-github-actions-docker/issues"
+  },
+  "homepage": "https://github.com/ParikshitMann/cicd-github-actions-docker#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
